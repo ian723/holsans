@@ -93,7 +93,7 @@
                     </h3>
                     <p class="text-black">Mobile: 0714581894</p>
                     <p class="text-black">Email: Holsanlimited@gmail.com</p>
-                    <p class="text-black">PO BOX 243 NJORO</p>
+                    <p class="text-black">PO BOX 243 Naivasha</p>
                   </div>
                 </li>
                 <li class="flex flex-col md:flex-row">
