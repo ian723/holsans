@@ -7,7 +7,7 @@
         loop
         class="absolute inset-0 object-cover w-full h-full z-0"
       >
-        <source src="../assets/video.mp4" type="video/mp4" />
+        <source src="../assets/vid2.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
   
